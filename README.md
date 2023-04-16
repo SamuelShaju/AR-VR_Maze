@@ -1,6 +1,5 @@
 # AR-VR_Maze
 <hr>
-<br><br>
 
 ### AR Maze apk
 The buld.apk file is the AR file.
